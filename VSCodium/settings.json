@@ -27,6 +27,6 @@
 	"workbench.activityBar.visible": false,
     "editor.insertSpaces": false,
 	"editor.detectIndentation": false,
-	"editor.tabSize": 4,
+	"editor.tabSize": 2,
 	"telemetry.telemetryLevel": "off"
 }
