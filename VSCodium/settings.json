@@ -1,32 +1,15 @@
 {
-    "window.menuBarVisibility": "toggle",
-    "workbench.iconTheme": "material-icon-theme",
-    "editor.minimap.enabled": false,
-    "explorer.confirmDelete": false,
-    "[html]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "[javascript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "workbench.startupEditor": "none",
-    "explorer.confirmDragAndDrop": false,
-    "editor.fontFamily": "‘Fira Code’, Consolas, ‘Courier New’, 'monospace'",
-    "workbench.enableExperiments": false,
-    "go.toolsManagement.autoUpdate": true,
     "workbench.colorTheme": "Material Theme Darker High Contrast",
-    "editor.cursorWidth": 2,
-    "workbench.colorCustomizations": {
-        "[Material Theme Ocean]": {}
-    },
-    "workbench.editor.untitled.hint": "hidden",
-    "workbench.settings.enableNaturalLanguageSearch": false,
-    "[json]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-	"workbench.activityBar.visible": false,
-    "editor.insertSpaces": false,
-	"editor.detectIndentation": false,
-	"editor.tabSize": 2,
-	"telemetry.telemetryLevel": "off"
-}
+    "workbench.startupEditor": "none",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+		"editor.insertSpaces": false,
+		"workbench.enableExperiments": false,
+		"editor.cursorWidth": 2,
+		"editor.fontLigatures": true,
+		"editor.fontFamily": "‘Fira Code’, Consolas, ‘Courier New’, 'monospace'",
+		"workbench.activityBar.visible": false,
+		"editor.codeLensFontFamily": "‘Fira Code’, Consolas, ‘Courier New’, 'monospace'",
+		"window.menuBarVisibility": "toggle"
+	}
