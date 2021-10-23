@@ -1,11 +1,10 @@
 {
-	"themed+title_bar": false,
+	"remember_workspace": false,
 	"file_tab_style": "square",
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"theme": "Adaptive.sublime-theme",
-	"font_size": 11,
-	"font_face": "Fira Code",
-	"tab_size": 2,
+	"font_face": "Fira Code Regular",
+	"tab_size": 4,
 	"ignored_packages":
 	[
 		"Vintage",

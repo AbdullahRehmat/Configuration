@@ -1,0 +1,4 @@
+[
+	{ "keys": ["ctrl+k+ctrl+o"], "command": "prompt_open_folder" },
+	{ "keys": ["ctrl+0"], "command": "reset_font_size" }
+]

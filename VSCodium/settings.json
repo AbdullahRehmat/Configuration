@@ -1,0 +1,16 @@
+{
+    "telemetry.telemetryLevel": "off",
+    "workbench.startupEditor": "none",
+    "workbench.enableExperiments": false,
+    "update.mode": "none",
+    "extensions.autoUpdate": "onlyEnabledExtensions",
+    "workbench.colorTheme": "Material Theme Darker High Contrast",
+		"workbench.iconTheme": "material-icon-theme",
+		"editor.fontLigatures": true,
+    "editor.detectIndentation": false,
+		"editor.insertSpaces": false,
+		"editor.cursorWidth": 2,
+		"workbench.activityBar.visible": false,
+		"editor.minimap.enabled": false,
+		"editor.fontFamily": "'Fira Code'"
+}
