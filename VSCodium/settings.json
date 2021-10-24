@@ -7,10 +7,20 @@
     "workbench.colorTheme": "Material Theme Darker High Contrast",
 		"workbench.iconTheme": "material-icon-theme",
 		"editor.fontLigatures": true,
-    "editor.detectIndentation": false,
-		"editor.insertSpaces": false,
+	"editor.detectIndentation": false,
 		"editor.cursorWidth": 2,
 		"workbench.activityBar.visible": false,
 		"editor.minimap.enabled": false,
-		"editor.fontFamily": "'Fira Code'"
+		"editor.fontFamily": "'Fira Code'",
+		"explorer.confirmDelete": false,
+        "window.menuBarVisibility": "toggle",
+        "[html]": {
+            "editor.defaultFormatter": "esbenp.prettier-vscode"
+        },
+        "[javascript]": {
+            "editor.defaultFormatter": "esbenp.prettier-vscode"
+        },
+        "[python]": {
+            "editor.defaultFormatter": "ms-python.python"
+        }
 }
