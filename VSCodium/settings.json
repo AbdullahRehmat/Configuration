@@ -6,8 +6,7 @@
     "extensions.autoUpdate": "onlyEnabledExtensions",
     "workbench.colorTheme": "Material Theme Darker High Contrast",
 		"workbench.iconTheme": "material-icon-theme",
-		"editor.fontLigatures": true,
-	"editor.detectIndentation": false,
+        "editor.fontLigatures": true,
 		"editor.cursorWidth": 2,
 		"workbench.activityBar.visible": false,
 		"editor.minimap.enabled": false,
@@ -22,5 +21,6 @@
         },
         "[python]": {
             "editor.defaultFormatter": "ms-python.python"
-        }
+        },
+        "explorer.confirmDragAndDrop": false
 }
